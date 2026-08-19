@@ -446,7 +446,7 @@ export default function Home() {
         <div style={{"maxWidth":"1280px","margin":"0 auto"}}>
             <div className="about-grid">
                 <div>
-                    <p style={{"fontSize":"12px","fontWeight":"700","letterSpacing":"2px","color":"#ec4899","marginBottom":"16px"}}>OUR STORY</p>
+                    <p style={{"fontSize":"20px","fontWeight":"700","letterSpacing":"2px","color":"#ec4899","marginBottom":"20px"}}>OUR STORY</p>
                     <h2 style={{"fontSize":"clamp(32px,4vw,52px)","fontWeight":"900","letterSpacing":"-2px","marginBottom":"24px","lineHeight":"1.1"}}>Clean.<br />Effective.<br />Accessible.</h2>
                     <p style={{"color":"#666","fontSize":"15px","lineHeight":"1.9","marginBottom":"16px"}}>
                         RHODE was created with one mission: give everyone access to premium skincare that actually works. We believe quality shouldn't be a luxury, and beauty should feel effortless.
@@ -455,18 +455,7 @@ export default function Home() {
                         Every formula is crafted with clean, clinically-tested ingredients, dermatologist-approved, and designed to build your skin's barrier — not strip it.
                     </p>
                     <div style={{"display":"flex","gap":"40px","marginBottom":"36px","flexWrap":"wrap"}}>
-                        <div>
-                            <p style={{"fontSize":"36px","fontWeight":"900","color":"#ec4899"}}>50+</p>
-                            <p style={{"fontSize":"13px","color":"#888","fontWeight":"600"}}>Products</p>
-                        </div>
-                        <div>
-                            <p style={{"fontSize":"36px","fontWeight":"900","color":"#ec4899"}}>2M+</p>
-                            <p style={{"fontSize":"13px","color":"#888","fontWeight":"600"}}>Happy Customers</p>
-                        </div>
-                        <div>
-                            <p style={{"fontSize":"36px","fontWeight":"900","color":"#ec4899"}}>4.9★</p>
-                            <p style={{"fontSize":"13px","color":"#888","fontWeight":"600"}}>Average Rating</p>
-                        </div>
+    
                     </div>
                     <a href="#" className="btn-dark">LEARN MORE</a>
                 </div>
