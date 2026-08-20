@@ -198,11 +198,11 @@ export default function Checkout() {
                     <div style={rowStyle}>
                       <div>
                         <label style={labelStyle}>City</label>
-                        <input style={inputStyle} required value={shipping.city} onChange={e => setShipping(p => ({ ...p, city: e.target.value }))} onFocus={handleFocus} onBlur={handleBlur} placeholder="New York" />
+                        <input style={inputStyle} required value={shipping.city} onChange={e => setShipping(p => ({ ...p, city: e.target.value }))} onFocus={handleFocus} onBlur={handleBlur} placeholder="City/Province" />
                       </div>
                       <div>
-                        <label style={labelStyle}>State / Province</label>
-                        <input style={inputStyle} value={shipping.state} onChange={e => setShipping(p => ({ ...p, state: e.target.value }))} onFocus={handleFocus} onBlur={handleBlur} placeholder="NY" />
+                        <label style={labelStyle}>Khan/Sangkat</label>
+                        <input style={inputStyle} value={shipping.state} onChange={e => setShipping(p => ({ ...p, state: e.target.value }))} onFocus={handleFocus} onBlur={handleBlur} placeholder="street/village" />
                       </div>
                     </div>
                     <div style={rowStyle}>
