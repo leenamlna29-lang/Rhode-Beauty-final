@@ -11,7 +11,6 @@ const sets = [
   { id: 'set-05', name: 'The Pocket Duo', desc: 'Pocket Blush + Pocket Bronze', sub: '2 full-size products', price: '$48.00', original: '$50.00', badge: 'NEW', badgeClass: 'badge-green', stars: '★★★★★', bg: '#fdf6f0', img: 'https://cdn.shopify.com/s/files/1/0606/5451/8510/files/pocket-duo-menu.png?v=1780105812' },
   { id: 'set-06', name: 'The Sun-kissed Set', desc: 'Pocket Bronze + Peptide Lip Tint', sub: '2 full-size products', price: '$50.00', original: '$53.00', badge: 'POPULAR', badgeClass: 'badge-nude', stars: '★★★★☆', bg: '#ecfdf5', img: 'https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sun-kissed-set-main.png?v=1780105812' },
   { id: 'set-07', name: 'The Peptide Lip Trio', desc: 'Three peptide lip treatments', sub: '3 full-size products', price: '$56.00', original: '$60.00', badge: 'LIMITED', badgeClass: 'badge-pink', stars: '★★★★★', bg: '#fce7f3', img: 'https://cdn.shopify.com/s/files/1/0606/5451/8510/files/peptide-lip-trio-bronze-main.png?v=1779479959' },
-  { id: 'set-08', name: 'The Peptide Lip Shape Set', desc: 'Four shape peptide lip', sub: '4 full-size products', price: '$92.00', original: '$96.00', badge: 'LIMITED', badgeClass: 'badge-pink', stars: '★★★★★', bg: '#fce7f3', img: 'https://www.rhodeskin.com/cdn/shop/files/set-pls-hero-d_2x_029fdaf4-df83-42cc-8873-79047608f1d9_2000x.jpg?v=1737602715' },
 ];
 
 function Toast({ msg }) {
