@@ -538,7 +538,7 @@ export default function Home() {
                 <div style={{"background":"#fff","padding":"36px 24px","borderRadius":"16px","border":"1px solid #f0f0f0"}}>
                     <i className="fas fa-phone" style={{"fontSize":"32px","color":"#ec4899","marginBottom":"16px","display":"block"}}></i>
                     <h3 style={{"fontWeight":"800","marginBottom":"8px"}}>Call Us</h3>
-                    <a href="tel:+18009876543" style={{"color":"#ec4899","textDecoration":"none","fontSize":"14px"}}>+1 (800) 987-6543</a>
+                    <a href="tel:+855809876543" style={{"color":"#ec4899","textDecoration":"none","fontSize":"14px"}}>+1 (800) 987-6543</a>
                 </div>
                 <div style={{"background":"#fff","padding":"36px 24px","borderRadius":"16px","border":"1px solid #f0f0f0"}}>
                     <i className="fas fa-clock" style={{"fontSize":"32px","color":"#ec4899","marginBottom":"16px","display":"block"}}></i>
